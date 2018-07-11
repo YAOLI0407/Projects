@@ -1,3 +1,4 @@
-# Projects
+# Deep Learning Projects
 
-Personal projects
+Items:
+1. NN with cat classification
